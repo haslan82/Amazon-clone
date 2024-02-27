@@ -1,27 +1,27 @@
 
 
-Amazon clone website project with HTML and CSS
+# Amazon clone website project with HTML and CSS #
 
-# Used Tecnologies #
+## Used Tecnologies ##
 
 HTML & CSS
 
-# Picture #
+##  Picture  ##
 
 
-! [](images/A1.jpeg)
+! [] (images/A1.jpeg)
 
 
-# Video #
+##  Video  ##
 
 
-! [](images/A2.mp4)
+! [] (images/A2.mp4)
 
 
-# GIF #
+##  GIF  ##
 
 
-! [](images/A3.gif)
+! [] (images/A3.gif)
 
 
 ## This web page was edited by Hüseyin ASLAN ##
