@@ -9,19 +9,19 @@ HTML & CSS
 ##  Picture  ##
 
 
-! [] (images/A1.jpeg)
+![](images/A1.jpeg)
 
 
 ##  Video  ##
 
 
-! [] (images/A2.mp4)
+![](images/A2.mp4)
 
 
 ##  GIF  ##
 
 
-! [] (images/A3.gif)
+![](images/A3.gif)
 
 
 ## This web page was edited by Hüseyin ASLAN ##
